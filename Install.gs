@@ -23,6 +23,6 @@ function installImporter()
   var idFileFrom = C_idFileFrom
   copySheets_(idFileFrom, idFileTo, sheetNames);
   
-  return -1;
+  return 0;
   
 }
