@@ -97,7 +97,7 @@ function getDataFromSheets_(fileIds, sheetNames, rangeNames, sqlTexts, sources)
   for (var i = 0, l = fileIds.length; i < l; i++)
   {
     array = getDataFromSheet_(fileIds[i], sheetNames[i], rangeNames[i], sqlTexts[i], sources);
-    if('null' != array) { arrays.push(array); }     
+    if('null' != array && typeof array !== 'undefined' && array != null)  { arrays.push(array); }     
   }
   return combine2DArrays_(arrays);
 }
