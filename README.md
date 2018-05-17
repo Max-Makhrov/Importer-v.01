@@ -13,7 +13,7 @@ Each column is the required field of the connection. You'll answer 3 questions: 
 <thead>
 <tr>
 <th>Field</th>
-<th><span style="color: #ffffff;">---------</span></th>
+<th><span style="color: #ffffff;">      </span></th>
 <th>Meaning</th>
 </tr>
 </thead>
@@ -67,4 +67,5 @@ After you finish with settings:
 	<li>Launch import: <code>Admin</code> > <code>Update</code>. Do it any time you need to refresh your data.</li>
 	<li>Run import hourly: <code>Admin</code> > <code>Install</code> > <code>Set 1 Hour Trigger</code>. Do it once and the trigger will run constantly.</li>
 </ol>
+
 If you want to add more connections, set them in new lines, and the Importer will adjust new settings automatically.
