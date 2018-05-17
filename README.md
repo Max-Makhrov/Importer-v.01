@@ -2,7 +2,7 @@
 Imports data between files with conditions
 
 
-When the installation is finished, you'll have 2 sheets that store all info used by the script. Sheet \<span style="text-decoration: underline;">Ini</span>/ holds all the data for the script. Sheet \<span style="text-decoration: underline;">Settings</span>/ serves you to set the import.
+When the installation is finished, you'll have 2 sheets that store all info used by the script. Sheet \Ini/ holds all the data for the script. Sheet \Settings/ serves you to set the import.
 
 In "Settings" each line is one connection. Fill "Settings" with your connections:
 
