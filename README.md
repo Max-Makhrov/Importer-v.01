@@ -62,6 +62,7 @@ Each column is the required field of the connection. You'll answer 3 questions: 
 </tr>
 </tbody>
 </table>
+
 After you finish with settings:
 <ol>
 	<li>Launch import: <code>Admin</code> > <code>Update</code>. Do it any time you need to refresh your data.</li>
