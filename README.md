@@ -1,5 +1,8 @@
 # Importer-v.01
-Imports data between files with conditions
+Imports data between files with conditions.
+
+Landing page:
+https://sheetswithmaxmakhrov.wordpress.com/2018/04/10/importer/
 
 
 When the installation is finished, you'll have 2 sheets that store all info used by the script. Sheet \Ini/ holds all the data for the script. Sheet \Settings/ serves you to set the import.
